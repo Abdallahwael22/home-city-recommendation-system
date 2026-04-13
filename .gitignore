@@ -205,3 +205,7 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+#.gitkeep to 
+#  keep empty directories in git, for example, to preserve directory structure or to indicate that a directory is intentionally left empty.
+.gitkeep
