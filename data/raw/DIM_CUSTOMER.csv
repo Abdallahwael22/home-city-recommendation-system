@@ -1,0 +1,59 @@
+CUSTOMER_KEY,CUSTOMER_ID,SOURCE_SYSTEM,GENDER,AGE_GROUP,CITY,REGION,REGISTRATION_DATE,CUSTOMER_SEGMENT,START_DATE,END_DATE,IS_CURRENT
+1,1,CRM,M,36-45,Riyadh,Saudi Arabia,2022-04-15,Regular,2022-04-15,2022-10-04,False
+2,1,CRM,M,36-45,Jeddah,Saudi Arabia,2022-04-15,Frequent Shopper,2022-10-05,,True
+3,2,CRM,M,36-45,Baghdad,Iraq,2022-08-27,Regular,2022-08-27,,True
+4,3,Web_App,M,36-45,Algiers,Algeria,2023-03-06,VIP,2023-03-06,,True
+5,4,CRM,F,36-45,Abu Dhabi,UAE,2024-04-05,Corporate,2024-04-05,,True
+6,5,Web_App,F,26-35,Dammam,Saudi Arabia,2022-12-11,Regular,2022-12-11,,True
+7,6,Web_App,M,26-35,Riyadh,Saudi Arabia,2022-09-28,Regular,2022-09-28,,True
+8,7,Web_App,F,26-35,Alexandria,Egypt,2023-07-20,Small Business,2023-07-20,,True
+9,8,CRM,F,36-45,Amman,Jordan,2022-08-22,VIP,2022-08-22,,True
+10,9,Web_App,M,46-55,Amman,Jordan,2023-04-10,Corporate,2023-04-10,,True
+11,10,CRM,M,26-35,Doha,Qatar,2023-12-01,Regular,2023-12-01,,True
+12,11,Web_App,M,26-35,Giza,Egypt,2022-10-04,Regular,2022-10-04,,True
+13,12,Web_App,M,36-45,Baghdad,Iraq,2022-08-23,Corporate,2022-08-23,,True
+14,13,Web_App,F,26-35,Alexandria,Egypt,2023-08-04,Regular,2023-08-04,,True
+15,14,Web_App,M,36-45,Kuwait City,Kuwait,2023-04-15,Regular,2023-04-15,,True
+16,15,Web_App,F,18-25,Jeddah,Saudi Arabia,2024-02-04,VIP,2024-02-04,,True
+17,16,CRM,F,56-65,Beirut,Lebanon,2022-05-22,Regular,2022-05-22,,True
+18,17,CRM,F,18-25,Algiers,Algeria,2023-10-05,Regular,2023-10-05,,True
+19,18,Web_App,F,36-45,Dammam,Saudi Arabia,2023-04-25,Regular,2023-04-25,,True
+20,19,CRM,F,65+,Algiers,Algeria,2024-01-09,Corporate,2024-01-09,,True
+21,20,CRM,F,46-55,Riyadh,Saudi Arabia,2022-06-11,Regular,2022-06-11,2022-12-01,False
+22,20,CRM,F,46-55,Baghdad,Iraq,2022-06-11,Frequent Shopper,2022-12-02,,True
+23,21,CRM,M,65+,Casablanca,Morocco,2023-05-28,Corporate,2023-05-28,,True
+24,22,Web_App,M,56-65,Dammam,Saudi Arabia,2023-09-16,Regular,2023-09-16,,True
+25,23,Web_App,M,26-35,Dubai,UAE,2023-06-28,Regular,2023-06-28,,True
+26,24,Web_App,F,26-35,Cairo,Egypt,2024-05-01,Regular,2024-05-01,,True
+27,25,Web_App,M,18-25,Amman,Jordan,2022-03-29,Corporate,2022-03-29,,True
+28,26,CRM,M,65+,Tunis,Tunisia,2023-11-07,Frequent Shopper,2023-11-07,,True
+29,27,Web_App,M,26-35,Tunis,Tunisia,2022-08-05,Corporate,2022-08-05,,True
+30,28,Web_App,M,36-45,Baghdad,Iraq,2023-01-18,Regular,2023-01-18,,True
+31,29,Web_App,F,18-25,Casablanca,Morocco,2023-08-26,Regular,2023-08-26,,True
+32,30,Web_App,M,36-45,Baghdad,Iraq,2022-03-02,Regular,2022-03-02,,True
+33,31,CRM,M,56-65,Abu Dhabi,UAE,2022-09-01,Corporate,2022-09-01,,True
+34,32,Web_App,F,18-25,Sharjah,UAE,2023-08-08,Regular,2023-08-08,,True
+35,33,Web_App,F,18-25,Beirut,Lebanon,2022-04-07,Frequent Shopper,2022-04-07,,True
+36,34,Web_App,F,26-35,Riyadh,Saudi Arabia,2022-02-25,Frequent Shopper,2022-02-25,2022-11-15,False
+37,34,Web_App,F,26-35,Istanbul,Turkey,2022-02-25,VIP,2022-11-16,,True
+38,35,Web_App,M,26-35,Riyadh,Saudi Arabia,2022-09-12,Regular,2022-09-12,,True
+39,36,CRM,M,26-35,Dubai,UAE,2023-04-19,Regular,2023-04-19,2024-02-07,False
+40,36,CRM,M,26-35,Sharjah,UAE,2023-04-19,Regular,2024-02-08,,True
+41,37,Web_App,M,26-35,Abu Dhabi,UAE,2022-02-21,Corporate,2022-02-21,,True
+42,38,Web_App,M,65+,Baghdad,Iraq,2022-06-20,Small Business,2022-06-20,,True
+43,39,Web_App,F,26-35,Manama,Bahrain,2022-06-18,Corporate,2022-06-18,,True
+44,40,Web_App,M,65+,Muscat,Oman,2023-04-11,Regular,2023-04-11,2023-12-14,False
+45,40,Web_App,M,65+,Alexandria,Egypt,2023-04-11,Frequent Shopper,2023-12-15,,True
+46,41,Web_App,F,36-45,Amman,Jordan,2023-11-09,VIP,2023-11-09,,True
+47,42,CRM,M,18-25,Tunis,Tunisia,2024-01-24,Regular,2024-01-24,2024-12-24,False
+48,42,CRM,M,18-25,Sharjah,UAE,2024-01-24,Frequent Shopper,2024-12-25,,True
+49,43,Web_App,M,36-45,Baghdad,Iraq,2023-05-30,Regular,2023-05-30,2024-03-14,False
+50,43,Web_App,M,36-45,Jeddah,Saudi Arabia,2023-05-30,Regular,2024-03-15,,True
+51,44,Web_App,M,18-25,Algiers,Algeria,2022-03-12,Frequent Shopper,2022-03-12,,True
+52,45,CRM,M,36-45,Istanbul,Turkey,2023-08-07,Regular,2023-08-07,,True
+53,46,Web_App,M,36-45,Abu Dhabi,UAE,2023-06-20,Frequent Shopper,2023-06-20,,True
+54,47,CRM,F,18-25,Kuwait City,Kuwait,2023-02-10,VIP,2023-02-10,,True
+55,48,Web_App,F,26-35,Jeddah,Saudi Arabia,2022-01-10,Small Business,2022-01-10,,True
+56,49,CRM,M,18-25,Casablanca,Morocco,2022-12-24,Regular,2022-12-24,,True
+57,50,Web_App,M,26-35,Giza,Egypt,2023-12-22,Regular,2023-12-22,2024-08-31,False
+58,50,Web_App,M,26-35,Dammam,Saudi Arabia,2023-12-22,Regular,2024-09-01,,True

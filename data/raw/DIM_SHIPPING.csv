@@ -1,0 +1,4 @@
+SHIPPING_KEY,SHIPPING_TYPE,DELIVERY_DAYS
+1,Express,2
+2,Standard,5
+3,Pick-up,0

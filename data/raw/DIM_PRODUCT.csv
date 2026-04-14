@@ -1,0 +1,37 @@
+PRODUCT_KEY,PRODUCT_ID,SOURCE_SYSTEM,PRODUCT_NAME,BRAND,SUBCATEGORY,LAUNCH_DATE,CATEGORY_KEY,UNIT_COST,START_DATE,END_DATE,IS_CURRENT
+1,1,ERP_North,Galaxy S24 Ultra,Samsung,Flagship Phones,2023-12-17,1,520.00,2023-11-28,2024-08-12,False
+2,1,ERP_North,Galaxy S24 Ultra,Samsung,Flagship Phones,2023-12-17,1,422.98,2024-08-13,,True
+3,2,ERP_North,iPhone 15 Pro Max,Apple,Flagship Phones,2022-10-31,1,650.00,2023-10-18,,True
+4,3,Supplier_Portal,Pixel 8 Pro,Google,Flagship Phones,2022-07-07,1,420.00,2023-09-03,,True
+5,4,ERP_North,MacBook Air M3,Apple,Ultrabooks,2024-01-18,2,780.00,2023-10-20,,True
+6,5,ERP_North,iPad Air,Apple,Tablets,2022-10-30,2,380.00,2023-09-19,,True
+7,6,Supplier_Portal,Galaxy Tab S9,Samsung,Tablets,2022-10-09,2,320.00,2023-06-11,,True
+8,7,ERP_North,"OLED Smart TV 55""",LG,Smart TVs,2023-04-12,3,650.00,2023-09-02,2024-02-08,False
+9,7,ERP_North,"OLED Smart TV 55""",LG,Smart TVs,2023-04-12,3,696.15,2024-02-09,,True
+10,8,ERP_North,"QLED 4K TV 65""",Samsung,Smart TVs,2023-02-11,3,580.00,2023-11-18,2024-05-11,False
+11,8,ERP_North,"QLED 4K TV 65""",Samsung,Smart TVs,2023-02-11,3,502.97,2024-05-12,,True
+12,9,Supplier_Portal,"Gaming Monitor 27""",ASUS,Monitors,2023-07-22,3,280.00,2023-11-06,,True
+13,10,ERP_North,AirPods Pro 2,Apple,Wireless Earbuds,2022-11-06,4,110.00,2023-07-31,,True
+14,11,Supplier_Portal,Sony WH-1000XM5,Sony,Over-Ear Headphones,2022-11-14,4,175.00,2023-07-16,,True
+15,12,Supplier_Portal,JBL Charge 5,JBL,Portable Speakers,2023-07-28,4,85.00,2023-06-07,,True
+16,13,ERP_North,Front-Load Washer 8kg,LG,Front-Load Washers,2022-12-01,5,350.00,2023-12-06,,True
+17,14,ERP_North,Top-Load Washer 12kg,Samsung,Top-Load Washers,2023-05-07,5,290.00,2023-12-18,,True
+18,15,ERP_North,French Door Fridge,LG,Refrigerators,2023-07-27,6,720.00,2023-11-19,,True
+19,16,Supplier_Portal,Chest Freezer 300L,Beko,Freezers,2023-02-10,6,210.00,2023-08-08,,True
+20,17,ERP_North,Split AC 1.5 Ton,Carrier,Split ACs,2022-11-11,7,310.00,2023-11-27,2024-05-21,False
+21,17,ERP_North,Split AC 1.5 Ton,Carrier,Split ACs,2022-11-11,7,249.44,2024-05-22,,True
+22,18,Supplier_Portal,Portable AC 12000 BTU,Midea,Portable ACs,2023-09-25,7,260.00,2023-07-27,,True
+23,19,ERP_North,Air Fryer 5.5L,Philips,Air Fryers,2022-12-22,8,65.00,2023-09-26,2024-05-21,False
+24,19,ERP_North,Air Fryer 5.5L,Philips,Air Fryers,2022-12-22,8,58.20,2024-05-22,,True
+25,20,Supplier_Portal,Espresso Machine,DeLonghi,Coffee Machines,2023-01-20,8,230.00,2023-07-28,,True
+26,21,ERP_North,PlayStation 5,Sony,Gaming Consoles,2022-06-25,9,380.00,2023-11-16,2024-06-01,False
+27,21,ERP_North,PlayStation 5,Sony,Gaming Consoles,2022-06-25,9,316.70,2024-06-02,,True
+28,22,Supplier_Portal,LEGO City Set,LEGO,Building Sets,2022-08-11,9,45.00,2023-12-15,,True
+29,23,Supplier_Portal,Barbie Dreamhouse,Mattel,Dolls,2023-03-13,9,95.00,2023-08-29,,True
+30,24,Supplier_Portal,Monopoly Classic,Hasbro,Strategy Games,2023-11-04,10,18.00,2023-09-11,,True
+31,25,Supplier_Portal,Trampoline 10ft,Plum,Trampolines,2023-12-02,11,150.00,2023-08-24,,True
+32,26,ERP_North,Baby Stroller Pro,Chicco,Strollers,2022-06-29,12,180.00,2023-06-30,,True
+33,27,ERP_North,Electric Shaver Series 9,Braun,Shavers,2023-02-23,13,120.00,2023-07-16,,True
+34,28,Supplier_Portal,Robot Vacuum S8+,Roborock,Robot Vacuums,2024-01-16,14,340.00,2023-08-07,,True
+35,29,ERP_North,Cordless Drill 20V,DeWalt,Power Drills,2022-07-10,15,95.00,2023-06-28,,True
+36,30,Supplier_Portal,LED Desk Lamp,Xiaomi,Desk Lamps,2023-08-19,14,25.00,2023-08-28,,True

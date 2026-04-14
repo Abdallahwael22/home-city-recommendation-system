@@ -1,0 +1,16 @@
+CATEGORY_KEY,CATEGORY_NAME,PARENT_CATEGORY,SEASONAL_FLAG
+1,Smartphones,Electronics,False
+2,Laptops & Tablets,Electronics,False
+3,TVs & Monitors,Electronics,False
+4,Audio & Headphones,Electronics,False
+5,Washing Machines,Household Appliances,False
+6,Refrigerators & Freezers,Household Appliances,False
+7,Air Conditioners,Household Appliances,True
+8,Kitchen Appliances,Household Appliances,False
+9,Action Figures & Dolls,Toys & Games,True
+10,Board Games & Puzzles,Toys & Games,True
+11,Outdoor Toys,Toys & Games,True
+12,Baby Products,Kids & Baby,False
+13,Personal Care,Health & Beauty,False
+14,Home & Garden,Home & Living,True
+15,Tools & Hardware,Home & Living,False

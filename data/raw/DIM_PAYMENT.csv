@@ -1,0 +1,6 @@
+PAYMENT_KEY,PAYMENT_METHOD
+1,Credit Card
+2,Cash on Delivery
+3,PayPal
+4,Bank Transfer
+5,Apple Pay
